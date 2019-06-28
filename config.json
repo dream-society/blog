@@ -1,0 +1,11 @@
+{
+	"baseurl": "https://dreamsociety.github.io/",
+	"languageCode": "en-us",
+	"title": "Dream Society",
+	"theme": "detox",
+	"taxonomies": {
+		"author": "authors",
+		"tag": "tags",
+		"category": "categories"
+	}
+}
