@@ -1,6 +1,7 @@
 {
     "authors": [
-        "Michele Rossi"
+        "Michele Rossi",
+        "Ambra Cirafisi"
     ],
     "date": "2018-08-01T14:43:28+02:00",
     "draft": false,

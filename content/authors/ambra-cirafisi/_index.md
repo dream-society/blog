@@ -1,9 +1,8 @@
 {
-	"name": "Michele Rossi",
-	"description": "Game Designer & Programmer",
-	"twitter_name": "@MikyM0D",
-	"github": "mikymod",
-	"disqusShortname": "mikymod-github-io"
+	"name": "Ambra Cirafisi",
+	"description": "Pixel Artist",
+	"twitter_name": "@elettra_art",
+	"github": "EleCla"
 }
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
